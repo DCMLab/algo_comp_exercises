@@ -26,8 +26,8 @@ If you were learning about a single Python library in this course, it would be `
 5. Start JupyterLab: `jupyter lab` (it is a more convenient alternative to `jupyter notebook` which would work as well)
 6. Navigate to the folder `01` and open the notebook `01_introduction.ipynb`.
 7. Execute the first cell (the one with a lot of `import` statements) to see whether you get any errors. If you do, you probably need to click to open the menu on the top right (which should say something with 'Python') end select your `algo` environment. Then, try again.
-  * `Ctrl/Cmd + Enter` to execute a cell
-  * `Shift + Enter` to execute a cell and go to the next one
+    * `Ctrl/Cmd + Enter` to execute a cell
+    * `Shift + Enter` to execute a cell and go to the next one
 
 ## Configure `music21`
 
