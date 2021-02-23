@@ -20,8 +20,8 @@ If you were learning about a single Python library in this course, it would be `
 ### Create the `algo` environment
 
 1. Clone this repository
-  * using the Git software: `git clone https://github.com/DCMLab/algo_comp_exercises.git` (if you have never used it, you might have to [install it](https://git-scm.com/downloads) first
-  * beginners: you can download the files in the form of [this ZIP file](https://github.com/DCMLab/algo_comp_exercises/archive/main.zip). 
+    * using the Git software: `git clone https://github.com/DCMLab/algo_comp_exercises.git` (if you have never used it, you might have to [install it](https://git-scm.com/downloads) first
+    * beginners: you can download the files in the form of [this ZIP file](https://github.com/DCMLab/algo_comp_exercises/archive/main.zip). 
 3. Navigate to your clone using `cd [FOLDERNAME]`
 4. Create a new environment `algo` with all dependencies installed: `conda env create -f 01/algo_env.yml` (on Windows paths use backslashes: `conda env create -f 01\algo_env.yml`)
 5. Activate the new environment: `conda activate algo`
