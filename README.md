@@ -20,12 +20,14 @@ If you were learning about a single Python library in this course, it would be `
 ### Create the `algo` environment
 
 1. Clone this repository
-2. Navigate to your clone using `cd [FOLDERNAME]`
-3. Create a new environment `algo` with all dependencies installed: `conda env create -f 01/algo_env.yml` (on Windows paths use backslashes: `conda env create -f 01\algo_env.yml`)
-4. Activate the new environment: `conda activate algo`
-5. Start JupyterLab: `jupyter lab` (it is a more convenient alternative to `jupyter notebook` which would work as well)
-6. Navigate to the folder `01` and open the notebook `01_introduction.ipynb`.
-7. Execute the first cell (the one with a lot of `import` statements) to see whether you get any errors. If you do, you probably need to click to open the menu on the top right (which should say something with 'Python') end select your `algo` environment. Then, try again.
+  * using the Git software: `git clone https://github.com/DCMLab/algo_comp_exercises.git` (if you have never used it, you might have to [install it](https://git-scm.com/downloads) first
+  * beginners: you can download the files in the form of [this ZIP file](https://github.com/DCMLab/algo_comp_exercises/archive/main.zip). 
+3. Navigate to your clone using `cd [FOLDERNAME]`
+4. Create a new environment `algo` with all dependencies installed: `conda env create -f 01/algo_env.yml` (on Windows paths use backslashes: `conda env create -f 01\algo_env.yml`)
+5. Activate the new environment: `conda activate algo`
+6. Start JupyterLab: `jupyter lab` (it is a more convenient alternative to `jupyter notebook` which would work as well)
+7. Navigate to the folder `01` and open the notebook `01_introduction.ipynb`.
+8. Execute the first cell (the one with a lot of `import` statements) to see whether you get any errors. If you do, you probably need to click to open the menu on the top right (which should say something with 'Python') end select your `algo` environment. Then, try again.
     * `Ctrl/Cmd + Enter` to execute a cell
     * `Shift + Enter` to execute a cell and go to the next one
 
